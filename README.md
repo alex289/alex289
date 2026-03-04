@@ -10,7 +10,6 @@
 
 ##### Current deployed projects
 - [Portfolio](https://alexanderkonietzko.com)
-- [My links](https://alexanderkonietzko-links.vercel.app/)
 
 ##### Languages and Tools I use:
 
@@ -18,7 +17,7 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
@@ -34,4 +33,4 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Typst.svg" alt="typst" />
 </p>
 
-<sub>Last updated on 8 Dez. 2025.</sub>
+<sub>Last updated on 4 Mar. 2026.</sub>
