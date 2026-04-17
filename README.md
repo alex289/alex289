@@ -33,6 +33,6 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Typst.svg" alt="typst" />
 </p>
 
-<br><br><br>
+<br><br><br><br>
 
 <sub>Last updated on 17 Apr. 2026.</sub>
